@@ -1,0 +1,15 @@
+play_pattern_list_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+.vscode/
+.idea/
